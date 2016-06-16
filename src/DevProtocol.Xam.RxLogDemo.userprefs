@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="iOS/DevProtocol.Xam.RxLogDemo.iOS.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DevProtocol.Xam.RxLogDemo/ViewModels/MainPageViewModel.cs">
+    <Files>
+      <File FileName="DevProtocol.Xam.RxLogDemo/App.xaml.cs" Line="35" Column="62" />
+      <File FileName="DevProtocol.Xam.RxLogDemo/ViewModels/MainPageViewModel.cs" Line="42" Column="48" />
+      <File FileName="DevProtocol.Xam.RxLogDemo/Views/MainPage.xaml" Line="12" Column="68" />
+      <File FileName="iOS/Logging/HockeyAppLogger.cs" Line="14" Column="67" />
+      <File FileName="iOS/AppDelegate.cs" Line="28" Column="56" />
+      <File FileName="Droid/MainActivity.cs" Line="25" Column="6" />
+      <File FileName="iOS/Logging/AzureLogger.cs" Line="20" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Hosts.DevProtocol.Xam.RxLogDemo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3F9BC18E-4711-4444-A824-5C9C27DACA09" />
+</Properties>

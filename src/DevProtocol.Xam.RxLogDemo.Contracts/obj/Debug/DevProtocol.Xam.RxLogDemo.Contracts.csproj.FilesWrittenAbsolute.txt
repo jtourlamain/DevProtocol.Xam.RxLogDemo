@@ -1,0 +1,7 @@
+/Users/jan.tourlamain/Dev/DevProtocol/DevProtocol.Xam.RxLogDemo/DevProtocol.Xam.RxLogDemo.Contracts/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/jan.tourlamain/Dev/DevProtocol/DevProtocol.Xam.RxLogDemo/DevProtocol.Xam.RxLogDemo.Contracts/bin/Debug/DevProtocol.Xam.RxLogDemo.Contracts.dll.mdb
+/Users/jan.tourlamain/Dev/DevProtocol/DevProtocol.Xam.RxLogDemo/DevProtocol.Xam.RxLogDemo.Contracts/bin/Debug/DevProtocol.Xam.RxLogDemo.Contracts.dll
+/Users/jan.tourlamain/Dev/DevProtocol/DevProtocol.Xam.RxLogDemo/DevProtocol.Xam.RxLogDemo.Contracts/obj/Debug/DevProtocol.Xam.RxLogDemo.Contracts.dll
+/Users/jan.tourlamain/Dev/DevProtocol/DevProtocol.Xam.RxLogDemo/DevProtocol.Xam.RxLogDemo.Contracts/obj/Debug/DevProtocol.Xam.RxLogDemo.Contracts.dll.mdb
+/Users/jan.tourlamain/Dev/DevProtocol/DevProtocol.Xam.RxLogDemo/DevProtocol.Xam.RxLogDemo.Contracts/bin/Debug/System.Reactive.Interfaces.dll
+/Users/jan.tourlamain/Dev/DevProtocol/DevProtocol.Xam.RxLogDemo/DevProtocol.Xam.RxLogDemo.Contracts/bin/Debug/System.Reactive.Core.dll
